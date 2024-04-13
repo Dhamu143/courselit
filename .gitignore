@@ -13,7 +13,6 @@ node_modules
 coverage
 
 # Text editors configurations
-.vscode
 .rgignore
 
 # Env file
@@ -38,3 +37,7 @@ report*.json
 
 # Dev tools files
 .eslintcache
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
+config.bat
